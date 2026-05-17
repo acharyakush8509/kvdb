@@ -1,6 +1,6 @@
 # Development Log — KVDB Project
 
-# Phase 1: Foundation & Global Configuration
+### Phase 1: Foundation & Global Configuration
 Date: May 17, 2026
 
 - Implemented Modules: `types.h`, `status.h`
