@@ -17,5 +17,6 @@ add_library(kvdb_core STATIC
     include/common/types.h
     include/common/status.h
     src/common/config.cpp
+    src/storage/lru_replacer.cpp
 )
 target_include_directories(kvdb_core PUBLIC include/)
